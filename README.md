@@ -31,10 +31,3 @@ FormMailer is a simple web application built with Flask that allows users to sub
 ## Contributing
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
-
-
-## Acknowledgments
-
-- This project was created as a learning exercise for web development with Flask.
-
-Feel free to customize this README to provide more details about your project, its usage, and any additional instructions or acknowledgments.
